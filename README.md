@@ -1,1 +1,1 @@
-# python-freecodecamp-challenges
+# python-freecodecamp-projects
